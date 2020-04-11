@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Superscoti/Assignment2#readme",
   "dependencies": {
+    "rollup": "^2.6.0",
+    "rollup-plugin-typescript2": "^0.27.0",
     "typescript": "^3.8.3"
   }
 }
