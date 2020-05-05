@@ -1,0 +1,12 @@
+Ich hatte ein Problem mit dem eigentlichen git-Repository. Die bundle.js wurde nicht mehr ausgeführt und ich hatte Fehler.
+Daher packe ich das Repository aufgrund der History der Commits trotzdem in dieses Zip-Archiv.
+
+Auf Github unter:
+
+https://github.com/Superscoti/Assignment2-josefdatei.git
+
+ich hatte für die vollständige Funktionalität den Code in dieses Repository kopiert. Also bitte für die Bewertung der Funktionalität das Repository nehmen:
+
+https://github.com/Superscoti/Assignment2.git
+
+und für die Historie meiner Commits und meiner Arbeitsweise bitte das erste Repository.
